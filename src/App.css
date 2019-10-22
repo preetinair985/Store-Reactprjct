@@ -1,0 +1,139 @@
+.container {
+    padding: 3%;
+}
+
+.search-wrapper {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+label {
+    margin-right: 2%;
+}
+
+input {
+    padding: 10px 10px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #cfcfcf;
+    width:20%;
+}
+
+.searchbtn_wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.search_btn {
+    border: 0;
+    padding: 0.5rem 1rem;
+    font-size: 14px;
+    background-color: rgba(4, 153, 29, 0.582);
+    border-radius: 0.15rem;
+}
+
+.table-wrapper {
+    margin:0 auto;
+    border-collapse: collapse;   
+}
+
+.table-wrapper  th  {
+    border: 1px solid #ddd;
+    padding: 0.25rem  1.5rem;
+}
+
+.sub-table-wrapper {
+    margin:0 auto;
+    border-collapse: collapse;   
+    margin-top: 10%;
+}
+
+.sub-table-wrapper  th  {
+    border: 1px solid #ddd;
+    padding: 0.25rem  1.5rem;
+}
+
+.cell_item  {
+    border: 1px solid #ddd;
+    padding: 0.25rem  2.5rem 0.25rem 2.5rem;
+}
+
+.cell_unitprice {
+    border: 1px solid #ddd;
+    padding: 0.25rem  2.5rem 0.25rem 1.5rem;
+}
+
+.cell_addbtn {
+    border: 1px solid #ddd;
+    padding: 0.25rem  0.25rem 0.25rem 0.25rem;
+    background-color: rgba(230, 44, 44, 0.849);
+}
+
+.cell_additembtn {
+    border: 1px solid #ddd;
+    padding: 0.25rem  0.25rem 0.25rem 0.25rem;
+    background-color: rgba(238, 217, 124, 0.849);
+}
+
+.add_btn {
+    border: none;
+    background-color: rgba(253, 61, 61, 0.849);
+    padding: 0.25rem 1.25rem;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.additem_btn {
+    border: none;
+    background-color: rgba(238, 217, 124, 0.849);
+    padding: 0.25rem 1.25rem
+}
+
+.totalbill_txt {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 65%;
+}
+
+ul {
+    list-style: none;
+}
+
+.dropdown_wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.item_list {
+    background-color: rgb(255, 253, 253);
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.cell_quant {
+    border: 1px solid #ddd;
+    padding: 0.15rem  1.4rem 0.15rem 0.15rem
+}
+
+.cell_quanttxt {
+    width:100%;
+    border-radius: 0;
+    border:none;
+}
+
+.total_bill {
+    display: flex;
+    margin-left: 60rem;
+}
+
+.label_bill {
+    color: rgb(236, 62, 62);
+}

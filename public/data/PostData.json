@@ -1,0 +1,60 @@
+[
+    {
+        "itemCode": "101",
+        "itemName": "Rim Soap",
+        "UnitPrice": 10,
+        "Unit": "Combo",
+        "quantity": 1,
+        "total": 10
+    },
+    {
+        "itemCode": "102",
+        "itemName": "Ponds Powder",
+        "UnitPrice": 50,
+        "Unit": "Single",
+        "quantity": 1,
+        "total": 50
+    },
+    {
+        "itemCode": "103",
+        "itemName": "Sugar",
+        "UnitPrice": 25,
+        "Unit": "Single",
+        "quantity": 1,
+        "total": 25
+    },
+    {
+        "itemCode": "104",
+        "itemName": "Pavizham Rice",
+        "UnitPrice": 70,
+        "Unit": "Single",
+        "quantity": 1,
+        "total": 70
+    },
+    {
+        "itemCode": "105",
+        "itemName": "Lux Soap",
+        "UnitPrice": 25,
+        "Unit": "Combo",
+        "quantity": 1,
+        "total": 25
+    },
+    {
+        "itemCode": "106",
+        "itemName": "Enchanteur Powder",
+        "UnitPrice": 90,
+        "Unit": "Single",
+        "quantity": 1,
+        "total": 90
+    },
+    {
+        "itemCode": "107",
+        "itemName": "Nirapara Rice",
+        "UnitPrice": 75,
+        "Unit": "Single",
+        "quantity": 1,
+        "total": 75
+    }
+
+ 
+]
